@@ -9,3 +9,5 @@ Intuitive keyboard controls (Arrow keys for movement, Spacebar to rotate).
 Score tracking to keep track of your progress.
 Level advancement as you clear lines.
 Game over when the blocks reach the top of the grid.
+Clearline sound whenever a line is cleared
+Gameover sound when the game is over
