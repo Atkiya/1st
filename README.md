@@ -1,4 +1,4 @@
-**Tetris 2D Game**
+# Tetris 2D Game
 
 ## Overview
 This is a classic 2D Tetris game implemented in Java.
